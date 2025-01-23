@@ -1,6 +1,6 @@
-Use the video given to see how it works
-If you want your video, first make sure the video captures the moving objects either in profile view or frontal one
-In the code there is a line to change how the counting is done, eithet vertical of horizontal, change it based on your needs. 
+Use the video given to preview how it works.
+If you want your video, ensure that it captures moving objects either from a profile or frontal perspective for optimal detection.
+The code includes a configurable setting to adjust the counting method—either vertical or horizontal—based on specific requirements. Modify this setting according to your needs to achieve accurate results.
 
 
 Other than that, enjoy
